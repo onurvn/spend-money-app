@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "Coffee",
+        "price": 4,
+        "image": "https://kalorisor.com/uploads/images/urun/starbucks-filtre-kahve.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Coca Cola Pack",
+        "price": 20,
+        "image": "https://cerulean-semifreddo-3fe0e1.netlify.app/static/media/coca-cola-pack.e400ef27d7f7689ce173.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Year of Netflix",
+        "price": 150,
+        "image": "https://cerulean-semifreddo-3fe0e1.netlify.app/static/media/year-of-netflix.e8c9fb2fb29e60b0c662.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Bike",
+        "price": 1500,
+        "image": "https://cerulean-semifreddo-3fe0e1.netlify.app/static/media/bike.7a451dc3bdf0d713a9ee.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Gaming Console",
+        "price": 5000,
+        "image": "https://cerulean-semifreddo-3fe0e1.netlify.app/static/media/gaming-console.5b503615332722e58d92.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Diamond Ring",
+        "price": 250000,
+        "image": "https://cerulean-semifreddo-3fe0e1.netlify.app/static/media/diamond-ring.632243867f370375939e.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Rolex",
+        "price": 1500000,
+        "image": "https://content.rolex.com/dam/2022-11/upright-bba-with-shadow/m128396tbr-0004.png?impolicy=v6-upright&imwidth=270"
+    },
+    {
+        "id": 8,
+        "title": "Hull City",
+        "price": 80000000,
+        "image": "https://i12.haber7.net//haber/haber7/og_image/2022/43/hull_cityden_lgbt_destegi_turk_futbolseverler_tepki_gosterdi_1666989659_8408.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Mona Lisa",
+        "price": 780000000,
+        "image": "https://neal.fun/spend/images/mona-lisa.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Plaza",
+        "price": 50000000,
+        "image": "https://neal.fun/spend/images/skyscraper.jpg"
+    },
+    {
+        "id": 11,
+        "title": "NBA Team",
+        "price": 2500000000,
+        "image": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnba.png"
+    },
+    {
+        "id": 12,
+        "title": "F-16",
+        "price": 350000000,
+        "image": "https://gdb.voanews.com/a7925a1f-dabe-4339-8419-aa8f15f4dca1_w1200_r1.jpg"
+    },
+    {
+        "id": 13,
+        "title": "Bar",
+        "price": 1000000,
+        "image": "https://www.gopos.com.tr/wp-content/uploads/2019/11/Bar-a%C3%A7arken-nelere-dikat-etmeli-1.jpg"
+    },
+    {
+        "id": 14,
+        "title": "​​Yacht",
+        "price": 150000000,
+        "image": "https://img.paratic.com/dosya/2017/01/etkileyici-tasarimlara-sahip-luks-yatlar-ve-yelkenliler-baglietto-46m-fast.jpg"
+    },
+    {
+        "id": 15,
+        "title": "NFL Team",
+        "price": 3500000000,
+        "image": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnfl.png"
+    }
+]
